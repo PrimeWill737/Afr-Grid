@@ -79,6 +79,7 @@ footer {
   padding: 10px;
 }
 .gallery__sub--1 {
+  display: block;
   width: 100%;
   height: 250px;
   border-radius: 8px;
