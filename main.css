@@ -9,7 +9,7 @@
   border-bottom-right-radius: 5px;
   transform: skew(5deg);
 }
-@media (max-width: 313px) {
+@media (max-width: 320px) {
   .content {
     transform: skew(0deg);
   }
