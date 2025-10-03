@@ -5,8 +5,8 @@
   background-size: cover;
   background-position: center;
   box-shadow: 0 5px 10px #9e9e9e;
-  border-bottom-left-radius: 5px;
-  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
   transform: skew(5deg);
 }
 @media (max-width: 320px) {
